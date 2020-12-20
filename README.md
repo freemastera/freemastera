@@ -18,7 +18,7 @@ class Bio extends data_engineer {
   location = 'Moscow, Russia';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends data_engineer {
   languages  = ['SQL', 'Python'];
   databases  = ['PostgreSQL', 'MySQL'];
   business_intelligence = ['Tableau', 'Data Studio'];
