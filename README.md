@@ -1,5 +1,5 @@
 <h2> Привет, меня зовут Павел Новичков! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="img/code.gif" width="300">
+<img align='right' src="img/code.gif" width="200">
 <p>По образованию я <a href="https://mf.bmstu.ru/info/faculty/kf/">инженер </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Более 8 лет работаю в сфере интернет-маркетинга и веб-аналитики 📊 </br>
 В настоящий момент активно учусь и развиваюсь в области больших данных и etl 🧱🧰</br>
