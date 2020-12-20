@@ -1,16 +1,29 @@
-### Hi there 👋
+```python
+# Добро пожаловать на мою страницу в Github!
+# Меня зовут Павел Новичков
+# По образованию я инженер https://mf.bmstu.ru/info/faculty/kf/
+# В настоящее время живу и работаю в Москве 
+# Более 8 лет работаю в сфере рекламных технологий
+# В дальнейшем хочу развиваться, как специалист по работе с хранением данных и etl 🕸️ 
+# Рассматриваю вакансии на позицию Data engineer / ETL разработчик
+# Люблю изучать новые технологии и использовать их для решения реальных проблем ✨. 
+# Кроме того люблю и стараюсь по мере возможности помогать другим 👨🏻💻.  
+# Если у вас есть какие-либо предложения или просто хотите сказать 'Привет', не стесняйтесь связать со мной
 
-<!--
-**freemastera/freemastera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	
+import data_engineer from 'pavelnovichkov';
 
-Here are some ideas to get you started:
+class Bio extends data_engineer {
+  name = 'Pavel Novichkov';
+  title = 'Data Engineer';
+  location = 'Moscow, Russia';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['SQL', 'Python'];
+  databases  = ['PostgreSQL', 'MySQL'];
+  business_intelligence = ['Tableau', 'Data Studio'];
+  etl = ['Pentaho']
+}
+
+```
