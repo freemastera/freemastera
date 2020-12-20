@@ -11,7 +11,7 @@
 # Если у вас есть какие-либо предложения или просто хотите сказать 'Привет', не стесняйтесь связать со мной
 
 	
-import data_engineer from 'pavelnovichkov';
+import data_engineer from 'pavelnovichkov';![](img/code.gif)
 
 class Bio extends data_engineer {
   name = 'Pavel Novichkov';
