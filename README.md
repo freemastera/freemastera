@@ -20,7 +20,8 @@ class Skills extends data_engineer {
   languages  = ['SQL', 'Python'];
   databases  = ['PostgreSQL', 'MySQL'];
   business_intelligence = ['Tableau', 'Data Studio'];
-  etl = ['Pentaho']
+  etl = ['Pentaho'];
+  bigdata = ['Spark','Hadoop'];
 }
 ```
 
