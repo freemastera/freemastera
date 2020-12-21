@@ -30,7 +30,7 @@ user = {
   'other': {
             'office': 'Excel',
             'cloud': 'AWS',
-            'python libraries': ['Pandas', 'SQLAlchemy', 'NumPy', 'Requests'],
+            'python_libraries': ['Pandas', 'SQLAlchemy', 'NumPy', 'Requests'],
             'control_version': ['Git', 'GitHub']
             },
 }
