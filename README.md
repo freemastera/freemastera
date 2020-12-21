@@ -18,8 +18,8 @@ user = {
          'first_name': 'Pavel',
          'last_name':  'Novichkov'
           },
-  'code': ['SQL', 'Python'],
-  'database': {
+  'languages': ['SQL', 'Python', 'Bash'],
+  'databases': {
                 'row_oriented': ['PostgreSQL', 'MySQL'],
                 'column_oriented': 'Clickhouse'
                },
@@ -28,9 +28,8 @@ user = {
   'big_data': ['Hadoop', 'Spark'],
   'other': {
             'office': 'Excel',
-            'cli': 'Bash',
             'cloud': 'AWS',
-            'version': ['Git', 'GitHub']
+            'control_version': ['Git', 'GitHub']
             },
 }
 ```
