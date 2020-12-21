@@ -10,21 +10,27 @@
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Немного обо мне...  </h3>
 
+
 ```python
-import data_engineer from 'pavelnovichkov';
-
-class Bio extends data_engineer {
-  name = 'Pavel Novichkov';
-  title = 'Data Engineer';
-  location = 'Moscow, Russia';
-}
-
-class Skills extends data_engineer {
-  languages  = ['SQL', 'Python'];
-  databases  = ['PostgreSQL', 'MySQL'];
-  business_intelligence = ['Tableau', 'Data Studio'];
-  etl = ['Pentaho'];
-  bigdata = ['Spark','Hadoop'];
+user = {
+  'name': {
+         'first_name': 'Pavel',
+         'last_name':  'Novichkov'
+          },
+  'code': ['SQL', 'Python'],
+  'database': {
+                'row_oriented': ['PostgreSQL', 'MySQL'],
+                'column_oriented': 'Clickhouse'
+               },
+  'business_intelligence': ['Tableau', 'Data Studio'],
+  'etl': ['Pentaho', 'Airflow'],
+  'big_data': ['Hadoop', 'Spark'],
+  'other': {
+            'office': 'Excel',
+            'cli': 'Bash',
+            'cloud': 'AWS',
+            'version': ['Git', 'GitHub']
+            },
 }
 ```
 
