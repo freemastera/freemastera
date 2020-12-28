@@ -29,7 +29,6 @@ user = {
   'big_data': ['Hadoop', 'Spark'],
   'other': {
             'office': 'Excel',
-            'cloud': 'AWS',
             'python_libraries': ['Pandas', 'SQLAlchemy', 'NumPy', 'Requests'],
             'control_version': ['Git', 'GitHub']
             },
