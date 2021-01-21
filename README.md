@@ -43,5 +43,5 @@ user = {
 </a>
 
 <a href="https://t.me/eXtr1Mo">
-  <img align="left" alt="Pavel Novichkov | Telegram" width="50px" src="img/telegram.webp" />
+  <img align="left" alt="Pavel Novichkov | Telegram" width="50px" src="img/telegram.png" />
 </a>
